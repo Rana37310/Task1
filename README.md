@@ -1,9 +1,9 @@
 # Task1
- Abstract Class vs. Interface
+ Abstract vs. Interface Class
 ## Instructions
 To run the code, execute the `main` class.
 
-## Abstract Class vs. Interface
+## Abstract vs. Interface
 ### Question:
 What is the main difference between an abstract class and an interface in PHP? Provide an example of a scenario where you would prefer to use an abstract class over an interface.
 
