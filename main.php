@@ -2,15 +2,7 @@
 // Class Description: to present the arithmetic progression
 // Author: Rana Albedaiwi
 // Date : 6/19/2024
-/*
- What is the main difference between an abstract class and an interface in PHP?
- 
-  An abstract class is more flexible than an interface. This is because an abstract class allows both
-  concrete and abstract functions, with various encapsulation options, while an interface requires all
-  functions to be abstract and public. In the progression example, I used an abstract class to handle
-  both concrete and abstract functions, which allows me to inherit these functions in the  
-  ArithmeticProgression subclasses.
-*/
+
 
 require_once 'ArithmeticProgression.php';
 
