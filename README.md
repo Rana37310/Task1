@@ -1,6 +1,5 @@
 # Task1
-To run the code, execute the 'main' class.
-
+ Abstract Class vs. Interface
 ## Instructions
 To run the code, execute the `main` class.
 
