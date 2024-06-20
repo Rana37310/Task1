@@ -1,5 +1,4 @@
 # Task1
-Abstract Class vs. Interface
 To run the code, execute the 'main' class.
 
 ## Instructions
